@@ -8,7 +8,7 @@ The website works on phones, tablets, and laptops without signing in. It include
 
 ## Updated resume and professional background
 
-[Download the resume](https://abhijith-viswanathan-portfolio.abhijithabhi3331.chatgpt.site/assets/Abhijith-Viswanathan-Resume.pdf) · [GitHub profile](https://github.com/abhijith-abhii) · [LinkedIn](https://www.linkedin.com/in/abhijith-viswanathan-0a7216436/)
+[Download the resume](https://abhijith-viswanathan-portfolio.abhijithabhi3331.chatgpt.site/assets/Abhijith-Viswanathan-Resume.pdf) · [GitHub profile](https://github.com/abhijith-abhii)
 
 The October 1 resume features Global Health Passport, NoteMesh, DocSearch Atlas and Shipyard. The portfolio now includes both internships, Cambridge Institute of Technology cultural leadership with more than 3,000 student participants per event, and AWS Certified Cloud Practitioner as planned professional development. The source archive includes the current resume.
 
