@@ -2,7 +2,7 @@
 
 **[Open the public portfolio](https://abhijith-viswanathan-portfolio.abhijithabhi3331.chatgpt.site/)**
 
-Thirty projects across software engineering, data science and ML, AI engineering, security and safe access, cloud and DevOps, and data analytics. Field buttons jump to each section; skill filters and search help visitors find relevant work. Each project has a shareable case study with source links, implementation details, AI-assistance disclosure, and limitations.
+Thirty-two projects across software engineering, data science and ML, AI engineering, security and safe access, cloud and DevOps, and data analytics. Field buttons jump to each section; skill filters and search help visitors find relevant work. Each project has a shareable case study with source links, implementation details, AI-assistance disclosure, and limitations.
 
 The website works on phones, tablets, and laptops without signing in. It includes light and dark themes, keyboard-accessible navigation, optimized screenshots, and a downloadable resume. Analytics is disabled.
 
@@ -10,7 +10,7 @@ The website works on phones, tablets, and laptops without signing in. It include
 
 [Download the resume](https://abhijith-viswanathan-portfolio.abhijithabhi3331.chatgpt.site/assets/Abhijith-Viswanathan-Resume.pdf) · [GitHub profile](https://github.com/abhijith-abhii)
 
-The October 1 resume features Global Health Passport, NoteMesh, DocSearch Atlas and Shipyard. The portfolio now includes both internships, Cambridge Institute of Technology cultural leadership with more than 3,000 student participants per event, and the AWS Certified Cloud Practitioner certification. The source archive includes the current resume.
+The October 18 resume features Global Health Passport, RescueRoute, PropertyPulse, NoteMesh and DocSearch Atlas. The portfolio now includes both internships, Cambridge Institute of Technology cultural leadership with more than 3,000 student participants per event, and the AWS Certified Solutions Architect – Professional certification. The source archive includes the current resume.
 
 ## Complete website source
 
@@ -30,8 +30,16 @@ Edit `dist/content.js` for projects and skills, `src/index.html` for the homepag
 
 ## Project collection
 
-The [25-project GitHub catalog](https://github.com/abhijith-abhii/portfolio-index) is included in the website alongside earlier projects. DocSearch and Retention Studio were updated rather than counted twice, producing 30 distinct case studies.
+The [25-project GitHub catalog](https://github.com/abhijith-abhii/portfolio-index) is included in the website alongside earlier projects. DocSearch and Retention Studio were updated rather than counted twice, producing 30 distinct case studies before the October additions of PropertyPulse and RescueRoute brought the total to 32.
 
 These are AI-assisted learning projects. Case studies distinguish synthetic demonstrations, local or temporary CI execution, and proposed next steps from production use or independently authored work.
 
-Updated October 1, 2026.
+Updated October 18, 2026.
+
+## Reproducible performance comparisons
+
+[RescueRoute](https://github.com/abhijith-abhii/rescue-route) compares exact enumeration and heuristic planning, plus constrained multi-vehicle route improvement. [PropertyPulse](https://github.com/abhijith-abhii/propertypulse-api) compares rental-search queries before and after indexing. The other selected projects have local benchmark reports. Every claim is tied to its synthetic workload and limitations; no production adoption or business uplift is asserted.
+
+## Connect
+
+[LinkedIn — Abhijith Viswanathan](https://www.linkedin.com/in/abhijith-viswanathan-0a7216436/)
