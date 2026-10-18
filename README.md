@@ -2,7 +2,7 @@
 
 **[Open the public portfolio](https://abhijith-viswanathan-portfolio.abhijithabhi3331.chatgpt.site/)**
 
-Thirty-two projects across software engineering, data science and ML, AI engineering, security and safe access, cloud and DevOps, and data analytics. Field buttons jump to each section; skill filters and search help visitors find relevant work. Each project has a shareable case study with source links, implementation details, AI-assistance disclosure, and limitations.
+Thirty-two projects across software engineering, data science and ML, AI engineering, security and safe access, cloud and DevOps, and data analytics. Field buttons jump to each section; skill filters and search help visitors find relevant work. Each project has a shareable case study with source links, implementation details, development notes, and limitations.
 
 The website works on phones, tablets, and laptops without signing in. It includes light and dark themes, keyboard-accessible navigation, optimized screenshots, and a downloadable resume. Analytics is disabled.
 
@@ -32,7 +32,7 @@ Edit `dist/content.js` for projects and skills, `src/index.html` for the homepag
 
 The [25-project GitHub catalog](https://github.com/abhijith-abhii/portfolio-index) is included in the website alongside earlier projects. DocSearch and Retention Studio were updated rather than counted twice, producing 30 distinct case studies before the October additions of PropertyPulse and RescueRoute brought the total to 32.
 
-These are AI-assisted learning projects. Case studies distinguish synthetic demonstrations, local or temporary CI execution, and proposed next steps from production use or independently authored work.
+These are my personal projects. Case studies explain implemented features, reproducible results and deployment boundaries. Development notes document the AI-assisted tools used during implementation.
 
 Updated October 18, 2026.
 
